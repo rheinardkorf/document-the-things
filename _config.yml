@@ -1,2 +1,3 @@
 name: Document The Things
-theme: jekyll-theme-architect
+theme: jekyll-theme-cayman
+permalink: /:categories/:year/:month/:day/:title
