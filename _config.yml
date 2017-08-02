@@ -5,7 +5,7 @@ locale: en_US
 description: Documenting things that need documenting.
 logo: #site-logo.png
 search: true
-#url: https://rheinardkorf.github.io/document-the-things/
+url: https://rheinardkorf.github.io/document-the-things/
 
 # Jekyll configuration
 
