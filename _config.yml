@@ -37,7 +37,7 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 # Site owner
 owner:
   name: Rheinard Korf
-  avatar: bio-photo.jpg
+  avatar: rheinardkorf.png
   email: rheinard@thekorfs.com
   disqus-shortname:
   twitter: rheinardkorf
